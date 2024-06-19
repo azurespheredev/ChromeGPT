@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. Go to the latest release under [**Releases**](https://github.com/blixt/ChromeGPT/releases)
+1. Go to the latest release under [**Releases**](https://github.com/azuresphere7/ChromeGPT/releases)
 2. Download **ChromeGPT.zip** and unzip it
 3. In Google Chrome:
    1. Go to **Manage Extensions**
@@ -28,14 +28,14 @@ you don’t write anything, it defaults to “Describe this image”).
 To open it, you can press <kbd>Alt</kbd>+<kbd>C</kbd> /
 <kbd>Option</kbd>+<kbd>C</kbd>. This is what it looks like:
 
-![Screenshot 2024-05-27 at 18 17 17](https://github.com/blixt/ChromeGPT/assets/158591/c3e2cf59-69ed-4d11-8436-dbbcd5df2876)
+![Screenshot 2024-05-27 at 18 17 17](https://github.com/azuresphere7/ChromeGPT/assets/158591/c3e2cf59-69ed-4d11-8436-dbbcd5df2876)
 
 To send the query to ChatGPT, hit Enter. If you already have a ChatGPT tab open,
 you can pick it in the dropdown. The extension will send the image off to
 whichever ChatGPT tab you chose and switch to that tab, wait for the image to
 upload, then send your message:
 
-![Screenshot 2024-05-27 at 18 17 54](https://github.com/blixt/ChromeGPT/assets/158591/4f6c97d1-135f-4d11-97bc-873f2ea93e87)
+![Screenshot 2024-05-27 at 18 17 54](https://github.com/azuresphere7/ChromeGPT/assets/158591/4f6c97d1-135f-4d11-97bc-873f2ea93e87)
 
 ### For developers
 

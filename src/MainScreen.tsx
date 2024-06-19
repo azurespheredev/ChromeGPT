@@ -5,7 +5,7 @@ import { pasteImageInChatGPT } from "./pasteImageInChatGPT"
 import { useChatGPTTabs } from "./tabs"
 import { useActiveTabImageURL } from "./useActiveTabImageURL"
 
-const defaultText = "Describe this image."
+const defaultText = "Describe this image"
 
 export default function MainScreen() {
     const tabs = useChatGPTTabs()
